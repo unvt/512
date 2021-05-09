@@ -18,10 +18,14 @@
 ### 22:40/23:10 基調講演
 国連ベクトルタイルツールキット: 導入（藤村 英範）
 
+[スライド英語版](https://speakerdeck.com/hfu/unvt-workshop-introduction-and-application)/スライド日本語版
+
 ### 23:10/23:25 実装事例紹介
 国連でのベクトルタイル実装から得られた経験（鵜生川太郎）
 
 ### 23:25/23:55 応用事例紹介
 国連ベクトルタイルツールキット: アプリケーション（藤村 英範）
+
+[スライド英語版](https://speakerdeck.com/hfu/unvt-workshop-introduction-and-application?slide=34)/スライド日本語版
 
 ### 23:55/24:00 おわりに
