@@ -25,6 +25,8 @@
 ### 23:10/23:25 実装事例紹介
 国連でのベクトルタイル実装から得られた経験（鵜生川太郎）
 
+[スライド日本語版](https://speakerdeck.com/ubukawa/lessons-from-unvt-deployment-effort-in-un-in-japanese)
+
 ### 23:25/23:55 応用事例紹介
 国連ベクトルタイルツールキット: アプリケーション（藤村 英範）
 
